@@ -113,7 +113,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>com.bfxy.order.Application</mainClass>
+                    <mainClass>com.bfxy.order.OrderApplication</mainClass>
                 </configuration>
             </plugin>
         </plugins>

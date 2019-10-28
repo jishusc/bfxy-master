@@ -112,7 +112,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
                     <mainClass>
-                        com.bfxy.store.Application
+                        com.bfxy.store.StoreApplication
                     </mainClass>
                 </configuration>
             </plugin>
