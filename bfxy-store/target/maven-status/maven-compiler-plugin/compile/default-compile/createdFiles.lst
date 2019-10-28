@@ -1,0 +1,9 @@
+com\bfxy\store\config\mybatis\MybatisMapperScanerConfig.class
+com\bfxy\store\config\database\DruidDataSourceConfig.class
+com\bfxy\store\config\mybatis\MybatisDataSourceConfig.class
+com\bfxy\store\service\provider\HelloServiceProvider.class
+com\bfxy\store\MainConfig.class
+com\bfxy\store\Application.class
+com\bfxy\store\entity\Store.class
+com\bfxy\store\config\database\DruidDataSourceSettings.class
+com\bfxy\store\mapper\StoreMapper.class
